@@ -38,7 +38,7 @@
 					<dependency>
 						<groupId>org.springframework.boot.experimental</groupId>
 						<artifactId>spring-boot-thin-layout</artifactId>
-						<version>1.0.4.RELEASE</version>
+						<version>1.0.5.RELEASE</version>
 					</dependency>
 				</dependencies>
 			</plugin>
